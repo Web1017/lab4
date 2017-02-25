@@ -1,0 +1,13 @@
+c:\users\300742916\documents\visual studio 2012\Projects\Javid-Niftaliyev_Lab4\Javid-Niftaliyev_Lab4_Ex01\bin\Debug\Javid-Niftaliyev_Lab4_Ex01.exe.config
+C:\Users\300742916\Desktop\Javid-Niftaliyev_Lab4\Javid-Niftaliyev_Lab4_Ex01\bin\Debug\Javid-Niftaliyev_Lab4_Ex01.exe.config
+C:\Users\300742916\Desktop\Javid-Niftaliyev_Lab4\Javid-Niftaliyev_Lab4_Ex01\obj\Debug\Javid-Niftaliyev_Lab4_Ex01.csprojResolveAssemblyReference.cache
+C:\Users\300742916\Desktop\Javid-Niftaliyev_Lab4\Javid-Niftaliyev_Lab4_Ex01\bin\Debug\Javid-Niftaliyev_Lab4_Ex01.exe
+C:\Users\300742916\Desktop\Javid-Niftaliyev_Lab4\Javid-Niftaliyev_Lab4_Ex01\bin\Debug\Javid-Niftaliyev_Lab4_Ex01.pdb
+C:\Users\300742916\Desktop\Javid-Niftaliyev_Lab4\Javid-Niftaliyev_Lab4_Ex01\obj\Debug\Javid-Niftaliyev_Lab4_Ex01.exe
+C:\Users\300742916\Desktop\Javid-Niftaliyev_Lab4\Javid-Niftaliyev_Lab4_Ex01\obj\Debug\Javid-Niftaliyev_Lab4_Ex01.pdb
+G:\Semester 4\COMP212-005-(Programming 3)\Assignment 4\Javid-Niftaliyev_Lab4\Javid-Niftaliyev_Lab4_Ex01\bin\Debug\Javid-Niftaliyev_Lab4_Ex01.exe.config
+G:\Semester 4\COMP212-005-(Programming 3)\Assignment 4\Javid-Niftaliyev_Lab4\Javid-Niftaliyev_Lab4_Ex01\obj\Debug\Javid-Niftaliyev_Lab4_Ex01.exe
+G:\Semester 4\COMP212-005-(Programming 3)\Assignment 4\Javid-Niftaliyev_Lab4\Javid-Niftaliyev_Lab4_Ex01\obj\Debug\Javid-Niftaliyev_Lab4_Ex01.pdb
+G:\Semester 4\COMP212-005-(Programming 3)\Assignment 4\Javid-Niftaliyev_Lab4\Javid-Niftaliyev_Lab4_Ex01\bin\Debug\Javid-Niftaliyev_Lab4_Ex01.exe
+G:\Semester 4\COMP212-005-(Programming 3)\Assignment 4\Javid-Niftaliyev_Lab4\Javid-Niftaliyev_Lab4_Ex01\bin\Debug\Javid-Niftaliyev_Lab4_Ex01.pdb
+G:\Semester 4\COMP212-005-(Programming 3)\Assignment 4\Javid-Niftaliyev_Lab4\Javid-Niftaliyev_Lab4_Ex01\obj\Debug\Javid-Niftaliyev_Lab4_Ex01.csprojResolveAssemblyReference.cache

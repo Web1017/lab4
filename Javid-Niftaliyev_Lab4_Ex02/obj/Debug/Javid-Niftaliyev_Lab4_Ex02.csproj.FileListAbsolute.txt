@@ -1,0 +1,6 @@
+G:\Semester 4\COMP212-005-(Programming 3)\Assignment 4\Javid-Niftaliyev_Lab4\Javid-Niftaliyev_Lab4_Ex02\bin\Debug\Javid-Niftaliyev_Lab4_Ex02.exe.config
+G:\Semester 4\COMP212-005-(Programming 3)\Assignment 4\Javid-Niftaliyev_Lab4\Javid-Niftaliyev_Lab4_Ex02\bin\Debug\Javid-Niftaliyev_Lab4_Ex02.exe
+G:\Semester 4\COMP212-005-(Programming 3)\Assignment 4\Javid-Niftaliyev_Lab4\Javid-Niftaliyev_Lab4_Ex02\bin\Debug\Javid-Niftaliyev_Lab4_Ex02.pdb
+G:\Semester 4\COMP212-005-(Programming 3)\Assignment 4\Javid-Niftaliyev_Lab4\Javid-Niftaliyev_Lab4_Ex02\obj\Debug\Javid-Niftaliyev_Lab4_Ex02.csprojResolveAssemblyReference.cache
+G:\Semester 4\COMP212-005-(Programming 3)\Assignment 4\Javid-Niftaliyev_Lab4\Javid-Niftaliyev_Lab4_Ex02\obj\Debug\Javid-Niftaliyev_Lab4_Ex02.exe
+G:\Semester 4\COMP212-005-(Programming 3)\Assignment 4\Javid-Niftaliyev_Lab4\Javid-Niftaliyev_Lab4_Ex02\obj\Debug\Javid-Niftaliyev_Lab4_Ex02.pdb
